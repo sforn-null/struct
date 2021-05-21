@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-struct Point//×ø±ê
+struct Point//Ã—Ã¸Â±Ãª
 {
 	int x;
 	int y;
